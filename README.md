@@ -7,7 +7,7 @@
 [7zip](https://7-zip.org/) must be installed on your computer.
 
 1. **Close Balatro**
-2. Put the files into `%appdata%/Balatro/pack`
+2. Put balatro.png into `%appdata%/Balatro/pack`
 3. Go to the Balatro folder (Eg: `SteamLibrary\steamapps\common\Balatro\`)
 4. Right click on `Balatro.exe`
 5. In the `7-Zip` menu, click on `Open archive`
