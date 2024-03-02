@@ -12,6 +12,6 @@
 4. Right click on `Balatro.exe`
 5. In the `7-Zip` menu, click on `Open archive`
 6. Open the game.lua file in a text editor
-7. Under self.asset_atli "pack/balatro.png" replace the path for balatro with "pack/balatro.png"
+7. Under self.asset_atli, replace the path for balatro with "pack/balatro.png"
 8. Open the file location of the file and drag the file back into 7zip
 9. You can now launch Balatro and it will be Cilantro
