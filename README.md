@@ -2,6 +2,8 @@
 
 # Cilantro Mod for Balatro
 
+My girlfriend called the game cilantro so I dedicate this mod to her
+
 # How to configure?
 
 [7zip](https://7-zip.org/) must be installed on your computer.
